@@ -1,2 +1,6 @@
-:HL["/_next/static/chunks/1edcmdxvpj1l5.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"project","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"4","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"w_SGGl73nmy4tuw6PylVl"}
+:HL["/_next/static/chunks/1n_fm5__8ypd2.css","style"]
+:HL["/fonts/ekselldisplay-large-webfont.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/fonts/ekselldisplay-small-webfont.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/fonts/silka-regular-webfont.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/fonts/silka_bold-webfont.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"project","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"4","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"sLOo2wIZYSANO0mi0ivQZ"}
