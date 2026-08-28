@@ -3,4 +3,4 @@
 3:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/204h12e2amxmn.js"],"default"]
 4:I[22016,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/204h12e2amxmn.js","/_next/static/chunks/1rxncug86bump.js"],""]
 5:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"project-not-found","children":[["$","p",null,{"children":"这个项目页面不存在。"}],["$","$L4",null,{"href":"/","children":"返回首页"}]]}],[]]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W5","buildId":"4G9DLNYTjTv60te-qXTtp"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"project-not-found","children":[["$","p",null,{"children":"这个项目页面不存在。"}],["$","$L4",null,{"href":"/","children":"返回首页"}]]}],[]]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W5","buildId":"BNgCcBwOxuPx0ZaoxutM9"}
